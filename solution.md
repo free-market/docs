@@ -19,6 +19,6 @@ Pathfinder removes the trade-off by embedding yield at **every layer of the liqu
 #### 3. **Fee & Incentive Alignment**
 
 * VIP fee tiers and rebates for high-volume users.
-* Direct pool participation for institutions — they earn yield on capital they provide for instant liquidity.
+* Direct pool participation for institutions: they earn yield on capital they provide for instant liquidity.
 
 The result: **outsized total yield** on all idle assets, with the speed and flexibility to match any user’s liquidity needs — from same-block withdrawal to multi-month investment.

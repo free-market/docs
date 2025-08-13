@@ -6,10 +6,16 @@
 
 ## Concepts
 
+* [Pathfinder Capital Flow](concepts/pathfinder-capital-flow.md)
+* [Pathfinder Liquidity Layer](concepts/pathfinder-liquidity-layer.md)
+* [Yield Stack](concepts/yield-stack.md)
 * [Onboarding/ asset conversion](concepts/onboarding-asset-conversion.md)
-* [Liquidity Pool](concepts/liquidity-pool.md)
 * [Brevity](concepts/brevity.md)
 
 ***
 
 * [Team](team.md)
+
+## Technical specs
+
+* [Instant Liquidity Layer - Technicals](technical-specs/instant-liquidity-layer-technicals.md)
