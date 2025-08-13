@@ -1,9 +1,10 @@
 # Pathfinder: Put Your Money to Work
 
+##
+
 ### 1. Introduction
 
-Pathfinder is a yield orchestration layer that turns _all_ idle assets — cash, stablecoins, treasuries, crypto, and tokenized RWAs — into continuously productive capital without compromising on user experience.\
-Whether assets are in a brokerage account, a fintech wallet, or a DeFi protocol, Pathfinder routes them into optimal strategies while keeping liquidity instantly available when needed.
+Pathfinder is a **Unified Yield Layer** that turns _all_ idle assets — cash, stablecoins, treasuries, crypto, and tokenized RWAs — into continuously productive capital without compromising on user experience. Whether assets are in a brokerage account, a fintech wallet, or a DeFi protocol, Pathfinder routes them into optimal strategies while keeping liquidity instantly available when needed.
 
 The **Pathfinder Yield Stack** combines:
 

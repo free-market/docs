@@ -7,9 +7,7 @@
 ## Concepts
 
 * [Onboarding/ asset conversion](concepts/onboarding-asset-conversion.md)
-* [Active Yield](concepts/active-yield.md)
-* [Liquidity Vault](concepts/liquidity-vault.md)
-* [Hooks](concepts/hooks.md)
+* [Liquidity Pool](concepts/liquidity-pool.md)
 * [Brevity](concepts/brevity.md)
 
 ***
