@@ -1,6 +1,6 @@
 # Problem: Idle Assets and Inaccessible Yield
 
-Idle Assets and Inaccessible Yield
+
 
 Idle balances represent a multi-trillion-dollar opportunity, but existing solutions force a trade-off:
 
